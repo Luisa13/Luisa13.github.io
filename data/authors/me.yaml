@@ -1,0 +1,118 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Luisa Sanchez
+  given: Luisa
+  family: Sanchez
+postnominals:
+  - PhD
+  - MIEEE
+status:
+  icon: "🤖"
+role: Senior Software Engineer
+# bio: |
+  
+affiliations:
+  - name: 📍 Switzerland
+    url: 
+
+links:
+  - icon: at-symbol
+    url: mailto:luisasanavi@gmail.com
+    label: E-mail Me
+
+  - icon: brands/github
+    url: https://github.com/Luisa13
+
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/luisa-sanchez/
+  
+## INTERESTS
+#
+interests:
+  - Distributed Systems
+  - Computer Vision
+  - Software Architecture
+  - Life sciences
+  - Sports
+
+## EDUCATION
+#
+# education:
+#   - degree: MS Artificial Intelligence
+#     institution: Rioja University
+#     end: 2021-06-01
+#     summary: |
+#       GPA: 8.9/10
+
+#       Courses included:
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+#   - degree: BS Computer Engineering
+#     institution: University of Granada
+#     end: 2013-09-01
+#     summary: |
+#       GPA: 7.1/10
+
+#       Courses included:
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    
+# ## EXPERIENCE
+# #
+# experience:
+#   - role: Software Engineer
+#     org: Jaywalker
+#     start: 2024-05-01
+#     end: 2026-05-01
+#     summary: |
+#       blbalbalbal
+
+#   - role: Software Engineer
+#     org: Logitech
+#     start: 2022-02-01
+#     end: 2024-05-01
+#     summary: |
+#       After finishin my studies i took a break and joined a recently open position in Sweden
+
+#   - role: Intern Machine Learning Engineer
+#     org: Logitech
+#     start: 2020-02-01
+#     end: 2020-08-01
+#     # icon: "bolt"
+#     summary: |
+#       I was selected as part of my Master program where I got the chance to have work experience in machine learning systems.
+#       Applied supervised learning to build a gaze tracking system as an exploratory project.
+#       Developed an eye fatigue prevention system based on blink detection.
+
+#   - role: Software Engineer
+#     org: CERN
+#     start: 2016-10-06
+#     end: 2019-10-06
+#     summary: |
+#       Developed several interactive tools for LEIR data visualization in Java EE, providing comprehensive results to the operators making it easier to debug the new system.
+      
+#   - role: Junior Backend Engineer
+#     org: Fidesol | Open Source R&D
+#     start: 2014-03-01
+#     end: 2016-09-06
+#     summary: |
+#       My work here focused on the development of microsystems and web applications, as well as API design mainly in the travel business background.
+
+
+
+languages:
+  - name: Spanish
+    level: 5
+    label: Native
+  - name: English
+    level: 4
+    label: Fluent
+  - name: French
+    level: 4
+    label: Fluent
+
